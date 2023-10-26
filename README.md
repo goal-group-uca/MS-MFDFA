@@ -29,6 +29,9 @@ in relation to all fluctuation functions. The summary is provided in table form 
 This software has been implemented in Matlab R2022b and is optimized for a screen resolution of 2560 x 1440 pixels. The self-installation version is
 available for use on Windows 10 or later.
 
-Please, cite us as:
+Please, cite this software as:
+
 de la Torre, J. C., Pavón-Domínguez, P., Ruiz, P., Dorronsoro, B., & Moreno-Pulido, S. (2023). Multi-signal Multifractal Detrended Fluctuation Analysis 
 (MS-MFDFA) Software. Retrieved from https://github.com/goal-group-uca/MS-MFDFA.git
+
+Please, cite the research paper as: 
