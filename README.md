@@ -30,4 +30,5 @@ This software has been implemented in Matlab R2022b and is optimized for a scree
 available for use on Windows 10 or later.
 
 Please, cite us as:
-Awaiting the publication of the research paper.
+de la Torre, J. C., Pavón-Domínguez, P., Ruiz, P., Dorronsoro, B., & Moreno-Pulido, S. (2023). Multi-signal Multifractal Detrended Fluctuation Analysis 
+(MS-MFDFA) Software. Retrieved from https://github.com/goal-group-uca/MS-MFDFA.git
