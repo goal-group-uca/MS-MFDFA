@@ -28,3 +28,6 @@ in relation to all fluctuation functions. The summary is provided in table form 
 
 This software has been implemented in Matlab R2022b and is optimized for a screen resolution of 2560 x 1440 pixels. The self-installation version is
 available for use on Windows 10 or later.
+
+Please, cite us as:
+Awaiting the publication of the research paper.
