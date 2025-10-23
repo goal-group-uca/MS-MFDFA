@@ -35,3 +35,4 @@ de la Torre, J. C., Pavón-Domínguez, P., Ruiz, P., Dorronsoro, B., & Moreno-Pu
 (MS-MFDFA) Software. Retrieved from https://github.com/goal-group-uca/MS-MFDFA.git
 
 Please, cite the research paper as: 
+de la Torre, J. C., Pavón-Domínguez, P., Dorronsoro, B., Galindo, P. L., & Ruiz, P. (2023). Multi-Signal Multifractal Detrended Fluctuation Analysis for Uncertain Systems —Application to the Energy Consumption of Software Programs in Microcontrollers. Fractal and Fractional, 7(11), 794. https://doi.org/10.3390/fractalfract7110794
